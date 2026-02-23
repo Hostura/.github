@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hostura/.github/main/assets/logo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hostura/.github/main/assets/logo-light.png">
-  <img alt="Hostura" src="https://raw.githubusercontent.com/Hostura/.github/main/assets/logo-light.png" width="400">
-</picture>
+<img alt="Hostura" src="https://raw.githubusercontent.com/Hostura/.github/main/assets/logo-light.png" width="400">
 
 # Self-hosting made simple
 
