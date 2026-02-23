@@ -1,4 +1,6 @@
-<img alt="Hostura" src="https://raw.githubusercontent.com/Hostura/.github/main/assets/logo-light.png" width="400">
+<div align="center">
+  <img alt="Hostura" src="https://raw.githubusercontent.com/Hostura/.github/main/assets/logo-light.png" width="400">
+</div>
 
 # Self-hosting made simple
 
