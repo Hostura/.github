@@ -29,7 +29,7 @@
 
 ```bash
 # Install Hostura
-curl -fsSL https://get.hostura.dev | sh
+curl -fsSL https://get.hostura.run | sh
 
 # Initialize your server
 hostura init --domain example.com
