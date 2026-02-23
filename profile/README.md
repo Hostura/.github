@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Hostura" src="https://raw.githubusercontent.com/Hostura/.github/main/assets/logo-light.png" width="400">
+  <img alt="Hostura" src="https://raw.githubusercontent.com/Hostura/.github/main/assets/logo-light.png" width="200">
 </div>
 
 # Self-hosting made simple
